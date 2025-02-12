@@ -18,7 +18,7 @@ A modern, high-converting landing page designed for SaaS products and indie hack
 
 ### 1. Clone the Repository
 ```sh
- git clone [https://github.com/mhashirhassan22/saas-landing-template.git](https://github.com/mhashirhassan22/saas-landing-template/)
+ git clone https://github.com/mhashirhassan22/saas-landing-template.git
 ```
 
 ### 2. Open the Project
