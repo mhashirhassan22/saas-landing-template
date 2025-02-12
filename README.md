@@ -1,6 +1,6 @@
 # SaaS & Indie Hacker Landing Page 🚀
 
-A modern, high-converting landing page designed for SaaS products and indie hackers. This project is built with **clean, minimal code**, ensuring fast performance and seamless responsiveness across all devices. Inspired by **ArWorkflow**, this design focuses on simplicity and **maximizing user attention** to boost conversions.
+This project is built with **clean, minimal code**, ensuring fast performance and seamless responsiveness across all devices. Inspired by **ArWorkflow**, this design focuses on simplicity and **maximizing user attention** to boost conversions.
 
 ## 🌟 Features
 
@@ -9,10 +9,9 @@ A modern, high-converting landing page designed for SaaS products and indie hack
 - 📱 **Fully Responsive** – Adapts to mobile, tablet, and desktop.
 - 🎬 **Smooth Animations** – Engaging yet lightweight animations.
 - ⚡ **Optimized for Performance** – No bloated libraries, just Bootstrap + minimal custom classes.
-- 🛠️ **Easy to Customize** – Modify styles and content effortlessly.
 
-## 📸 Preview
-
+Check out the landing page in action:  
+🔗 **[Live Preview](https://mhashirhassan22.github.io/saas-landing-template/)**
 
 ## 🚀 Getting Started
 
